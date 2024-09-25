@@ -6,7 +6,7 @@ const app = express()
 app.use(cors({origin: true, credentials: true}));
 app.use(express.json());
 const PORT = 8081;
-const DATABASE = 'betterhelp';
+const DATABASE = 'surveyapp';
 
 //DB creation
 
