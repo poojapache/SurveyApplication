@@ -1,0 +1,38 @@
+[
+    {
+        "quesNo": 2,
+        "quesText":"What is your favorite service?",
+        "quesType":"R",
+        "options":[{"ansNo":1, "ansText":"Yes"},{"ansNo":2, "ansText":"No"}]
+    },
+    {
+        "quesNo": 3,
+        "quesText":"What is your favorite service?",
+        "quesType":"C",
+        "options":[{"ansNo":1, "ansText":"Yes"},{"ansNo":2, "ansText":"No"}]
+    },
+    {
+        "quesNo": 5,
+        "quesText":"What is your favorite service?",
+        "quesType":"R",
+        "options":[{"ansNo":1, "ansText":"Yes"},{"ansNo":2, "ansText":"No"}]
+    },
+    {
+        "quesNo": 1,
+        "quesText":"What is your favorite service?",
+        "quesType":"R",
+        "options":[{"ansNo":1, "ansText":"Yes"},{"ansNo":2, "ansText":"No"}]
+    },
+    {
+        "quesNo": 4,
+        "quesText":"What is your favorite service?",
+        "quesType":"C",
+        "options":[{"ansNo":1, "ansText":"Yes"},{"ansNo":2, "ansText":"No"}]
+    },
+    {
+        "quesNo": 6,
+        "quesText":"What is your favorite service?",
+        "quesType":"R",
+        "options":[{"ansNo":1, "ansText":"Yes"},{"ansNo":2, "ansText":"No"}]
+    }
+]
